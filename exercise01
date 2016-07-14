@@ -1,4 +1,92 @@
+Part A:
+
 <div id="headerBgnewImg"><img src="images/SLI-logo.png" width="330" height="150" alt="SLI Logo"></div>
 <div id="hdrPicpages"><img src="images/STEM_summer_camp_600x190.jpg" alt="STEM Summer Camp" width="600" height="190" class="border0" /></div>
     </div>
 <div class="margT30 cntr"><img src="images/STEM_summer_camp_girls_2013_300.jpg" alt="STEM Summer Camp 2013" width="300" height="221" class="box_shadow margR10">
+
+Part B:
+
+<img src="images/SLI-logo.png" width="330" height="150" alt="SLI Logo">
+
+Part C:
+
+<img src="images/STEM_summer_camp_600x190.jpg" alt="STEM Summer Camp" width="600" height="190" class="border0">
+<img src="images/STEM_summer_camp_girls_2013_300.jpg" alt="STEM Summer Camp 2013" width="300" height="221" class="box_shadow margR10">
+<img src="images/STEM_summer_camp_boys_2013_300.jpg" alt="STEM Summer Camp 2013" width="300" height="221" class="box_shadow">
+
+Part D:
+
+<div id="bandgray">
+    <div id="bandgraycontainer">
+    	<div class="labelnew">
+        	<div><a href="http://www.foothill.edu" title="www.foothill.edu" target="_blank">Foothill College</a></div>
+        </div>
+    	<div id="navbar">
+        	<ul id="nav">
+          		<li><a href="index.html">HOME</a></li>
+				<li onmouseover="">ABOUT <span class="smallfont">▼</span>
+		  			<ul>
+            			<li><a href="advisoryBoard.html">Advisory Board</a></li>
+            			<li><a href="about_sli.html">About SLI</a></li>
+            			<li><a href="events.html">Events</a></li>
+            			<li><a href="foothill.html">Foothill Today</a></li>
+            			<li><a href="psec.html">PSEC</a></li>
+            			<li><a href="STEM_ed.html">STEM Education</a></li>
+          			</ul>
+          		</li>            
+				<li onmouseover="">PROGRAMS <span class="smallfont">▼</span>
+		  			<ul>
+            			<li><a href="computer.html">Computer Science</a></li>
+            			<li><a href="education.html">Education</a></li>
+            			<li><a href="nanotechnology.html">Nanotechnology</a></li>
+            			<li><a href="stemway.html">STEMway</a></li>
+          			</ul>
+          		</li>            
+				<li onmouseover="">LIVING LABS <span class="smallfont">▼</span>
+                	<ul>
+            			<li><a href="energy.html">Energy</a></li>
+<!--            			<li><a href="water.html">Water</a></li>
+            			<li><a href="biological.html">Biological</a></li>
+-->
+            			<li><a href="sustainability.html">Sustainability</a></li>
+					</ul>
+                </li>
+				<li onmouseover="" class="sel">OUTREACH <span class="smallfont">▼</span>
+		  			<ul>
+           			  	<li><a href="energy_champions.html">Energy Champions</a></li>
+           			  	<li><a href="internships.html">Internships</a></li>
+            			<li><a href="mathPhysicsShows.html">Math &amp; Physics Shows</a></li>
+            			<li><a href="mentorships.html">Mentorship/Speakers</a></li>
+            			<li><a href="partners.html">Partners</a></li>
+            			<li><a href="scholarships.html">Scholarships</a></li>
+            			<li><a href="speakers.html">STEM Lecture Series</a></li>
+            			<li class="subsel">&nbsp;STEM Summer Camps</li>
+	          			<li><a href="3D_printing.html">3D Printing</a></li>
+            			<li><a href="summer_bridge_math.html">Summer Bridge Math</a></li>
+          			</ul>
+          		</li>            
+				<li onmouseover="">RESOURCES <span class="smallfont">▼</span>
+                	<ul>
+          				<li><a href="PCAST.html">PCAST</a></li>
+          				<li><a href="resources.html">STEM Resources</a></li>
+                    </ul>
+                </li>
+        	</ul>
+    	</div> <!-- navbar -->
+    </div> <!-- bandgraycontainer -->
+</div>
+
+<div class="col_right">
+   		    <h1>Mailing Address</h1>
+                <div>
+        			<div>Foothill College</div>
+        			<div>12345 El Monte Road</div>
+        			<div>Los Altos Hills, CA 94022-4599</div>
+                </div>
+        	</div>
+        	
+Part E:
+
+<h1>STEM Summer Camp 2016</h1>
+uses class, tag <h1>
